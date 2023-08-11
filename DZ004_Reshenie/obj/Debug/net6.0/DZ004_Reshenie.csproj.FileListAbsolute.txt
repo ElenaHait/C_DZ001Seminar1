@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Учеба ИТ\C#_DZ_1\DZ004_Reshenie\bin\Debug\net6.0\DZ004_Reshenie.exe
+C:\Users\user\Desktop\Учеба ИТ\C#_DZ_1\DZ004_Reshenie\bin\Debug\net6.0\DZ004_Reshenie.deps.json
+C:\Users\user\Desktop\Учеба ИТ\C#_DZ_1\DZ004_Reshenie\bin\Debug\net6.0\DZ004_Reshenie.runtimeconfig.json
+C:\Users\user\Desktop\Учеба ИТ\C#_DZ_1\DZ004_Reshenie\bin\Debug\net6.0\DZ004_Reshenie.dll
+C:\Users\user\Desktop\Учеба ИТ\C#_DZ_1\DZ004_Reshenie\bin\Debug\net6.0\ref\DZ004_Reshenie.dll
+C:\Users\user\Desktop\Учеба ИТ\C#_DZ_1\DZ004_Reshenie\bin\Debug\net6.0\DZ004_Reshenie.pdb
+C:\Users\user\Desktop\Учеба ИТ\C#_DZ_1\DZ004_Reshenie\obj\Debug\net6.0\DZ004_Reshenie.GlobalUsings.g.cs
+C:\Users\user\Desktop\Учеба ИТ\C#_DZ_1\DZ004_Reshenie\obj\Debug\net6.0\DZ004_Reshenie.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Учеба ИТ\C#_DZ_1\DZ004_Reshenie\obj\Debug\net6.0\DZ004_Reshenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Учеба ИТ\C#_DZ_1\DZ004_Reshenie\obj\Debug\net6.0\DZ004_Reshenie.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Учеба ИТ\C#_DZ_1\DZ004_Reshenie\obj\Debug\net6.0\DZ004_Reshenie.AssemblyInfo.cs
+C:\Users\user\Desktop\Учеба ИТ\C#_DZ_1\DZ004_Reshenie\obj\Debug\net6.0\DZ004_Reshenie.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учеба ИТ\C#_DZ_1\DZ004_Reshenie\obj\Debug\net6.0\DZ004_Reshenie.dll
+C:\Users\user\Desktop\Учеба ИТ\C#_DZ_1\DZ004_Reshenie\obj\Debug\net6.0\ref\DZ004_Reshenie.dll
+C:\Users\user\Desktop\Учеба ИТ\C#_DZ_1\DZ004_Reshenie\obj\Debug\net6.0\DZ004_Reshenie.pdb
+C:\Users\user\Desktop\Учеба ИТ\C#_DZ_1\DZ004_Reshenie\obj\Debug\net6.0\DZ004_Reshenie.genruntimeconfig.cache
