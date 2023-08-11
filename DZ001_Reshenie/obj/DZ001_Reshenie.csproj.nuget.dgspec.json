@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\user\\Desktop\\Учеба ИТ\\C#_DZ_1\\DZ001_Reshenie\\DZ001_Reshenie.csproj": {}
+    "C:\\Users\\user\\Desktop\\Учеба ИТ\\C#_DZ_1\\DZ001_Reshenie\\DZ001_Reshenie.csproj": {}
   },
   "projects": {
-    "c:\\Users\\user\\Desktop\\Учеба ИТ\\C#_DZ_1\\DZ001_Reshenie\\DZ001_Reshenie.csproj": {
+    "C:\\Users\\user\\Desktop\\Учеба ИТ\\C#_DZ_1\\DZ001_Reshenie\\DZ001_Reshenie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\user\\Desktop\\Учеба ИТ\\C#_DZ_1\\DZ001_Reshenie\\DZ001_Reshenie.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Учеба ИТ\\C#_DZ_1\\DZ001_Reshenie\\DZ001_Reshenie.csproj",
         "projectName": "DZ001_Reshenie",
-        "projectPath": "c:\\Users\\user\\Desktop\\Учеба ИТ\\C#_DZ_1\\DZ001_Reshenie\\DZ001_Reshenie.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Учеба ИТ\\C#_DZ_1\\DZ001_Reshenie\\DZ001_Reshenie.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\user\\Desktop\\Учеба ИТ\\C#_DZ_1\\DZ001_Reshenie\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Учеба ИТ\\C#_DZ_1\\DZ001_Reshenie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
